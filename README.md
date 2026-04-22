@@ -9,9 +9,9 @@ Proyecto para Taller de aplicaciones de Internet, esta enfocado en una pequeña 
 El proyecto tiene una estructura básica que ira creciendo mediante la colaboración:
 
 ```TEXT
-# index.html   --> maquetación del proyecto
-# styles.css    --> estilos del proyecto
-# script.js   --> interacción para el usuario
-# README.md   --> documentación
-# .gitignore    --> lista de elementos que el repositorio debe ignorar
+├── index.html   --> maquetación del proyecto
+├── styles.css    --> estilos del proyecto
+├── script.js   --> interacción para el usuario
+├── README.md   --> documentación
+└── .gitignore    --> lista de elementos que el repositorio debe ignorar
 ```
