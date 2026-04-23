@@ -5,5 +5,5 @@ document.addEventListener("DOMContentLoaded", () => {
     const contadorProyectos = document.getElementById("proyectos");
     cantidadProyectos++;
     contadorProyectos.textContent = "+" + cantidadProyectos;
-  }, 2000);
+  }, 4000);
 });
