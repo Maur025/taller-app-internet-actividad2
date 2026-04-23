@@ -9,6 +9,9 @@ Proyecto para Taller de aplicaciones de Internet, esta enfocado en una pequeña 
 El proyecto tiene una estructura básica que ira creciendo mediante la colaboración:
 
 ```TEXT
+├── /src
+│   └── /images
+│       └── imágenes estáticas
 ├── index.html   --> maquetación del proyecto
 ├── styles.css    --> estilos del proyecto
 ├── script.js   --> interacción para el usuario
