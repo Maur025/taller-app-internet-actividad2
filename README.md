@@ -18,6 +18,6 @@ El proyecto tiene una estructura básica que ira creciendo mediante la colaborac
 
 ## Integrantes
 
--
+- Mauro Eduardo Moya Palli
 - Corini Apaza Anibal Rodrigo
--
+- Dania Condori
