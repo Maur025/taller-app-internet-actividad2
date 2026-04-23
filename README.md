@@ -15,3 +15,9 @@ El proyecto tiene una estructura básica que ira creciendo mediante la colaborac
 # README.md   --> documentación
 # .gitignore    --> lista de elementos que el repositorio debe ignorar
 ```
+
+## Integrantes
+
+-
+- Corini Apaza Anibal Rodrigo
+-
